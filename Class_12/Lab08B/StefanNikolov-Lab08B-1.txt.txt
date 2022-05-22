@@ -1,0 +1,13 @@
+Linear Search Times
+1. 204 msec
+2. 203 msec
+3. 204 msec
+4. 206 msec
+5. 205 msec
+
+Binary Search Times
+1. 0 msec
+2. 0 msec
+3. 0 msec
+4. 0 msec
+5. 0 msec

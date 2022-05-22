@@ -1,0 +1,7 @@
+420 violet
+470 blue
+500 cyan
+530 green
+580 yellow
+620 orange
+700 red

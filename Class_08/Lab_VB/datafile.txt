@@ -1,0 +1,5 @@
+Miller,Andrew 63700 5.5 
+Green,Shelia 55025.75 6.2
+Abrams,Milton 57400 6.1
+Smith,Stacey 72900 5.2
+Charles,Ray 54095 6.3 

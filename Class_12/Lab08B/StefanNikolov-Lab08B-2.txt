@@ -1,0 +1,4 @@
+The Linear Search has to be used [SortTime/SearchTime] times before the sorting
+algorithm is helpful 
+
+The Binary Search requires a sorting algorithm to work

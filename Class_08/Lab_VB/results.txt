@@ -1,0 +1,7 @@
+violet 713.792
+blue 637.856
+cyan 599.585
+green 565.646
+yellow 516.884
+orange 483.536
+red 428.275
